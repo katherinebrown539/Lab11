@@ -1,6 +1,12 @@
 #if !defined (BINARYSEARCHTREE_H)
 #define BINARYSEARCHTREE_H
 
+#if DEBUG
+
+#include <iostream>
+using namespace std;
+#endif
+
 #include "BinaryTreeIterator.h"
 #include "TreeNode.h"
 #include "Text.h"
@@ -55,7 +61,7 @@ class BinarySearchTree : public Drawable
       int getHeight();
       bool isBalanced();
 
-	  //todo
+	  //todo: done
       T** toArray();
 	  //todo
       static T** treeSort(T** items, int num_itemss, int (*comp_items) (T* item_1, T* item_2), int (*comp_keys) (String* key, T* item));
@@ -68,27 +74,60 @@ template < class T >
 void BinarySearchTree<T>::remove(String* sk)
 {
    //DO THIS
-	root = remove(root, sk);
+   #if DEBUG
+   cout << "About to remove\n";
+   #endif
+	root = removeItem(root, sk);
+	#if DEBUG
+	String* k = (root->getItem())->getKey();
+	k->displayString();
+	#endif
 }
 
 template < class T >
 TreeNode<T>* BinarySearchTree<T>::removeItem(TreeNode<T>* tNode, String* sk)
 {
+	if(tNode == 0)
+	{
+		return tNode;
+	}
+	
    //DO THIS
-   int comp = (*compare_keys) (sk, tNode);
+   T* item = tNode->getItem();
+   int comp = (*compare_keys) (sk, item);
+   
+   #if DEBUG
+   cout << comp << endl;
+   #endif
+   
    if(comp == 0)
    {
+	   #if DEBUG
+	   cout << "Found\n";
+	   #endif
+	   sze--;
 	  TreeNode<T>* subtree = removeNode(tNode);
-	  return subtree;   
+	  #if DEBUG
+	  cout << "About to return subtree\n";
+	  #endif
+	  return subtree;   	
+	 
+		
    }
 	else if(comp < 0)
 	{
+		#if DEBUG
+		cout << "Less than\n";
+		#endif
 		TreeNode<T>* sub = removeItem(tNode->getLeft(), sk);
 		tNode->setLeft(sub);
 		return tNode;
 	}
 	else
 	{
+	  #if DEBUG
+		cout << "Greater than\n";
+		#endif
 		TreeNode<T>* sub = removeItem(tNode->getRight(), sk);
 		tNode->setRight(sub);
 		return tNode;
@@ -118,11 +157,16 @@ TreeNode<T>* BinarySearchTree<T>::removeNode(TreeNode<T>* tNode)
    else 
    {
       //DO THIS
+	  #if DEBUG
+	  cout << "In the else block\n";
+	  #endif
+	  
 	  TreeNode<T>* right = tNode->getRight();
 	  T* data = findLeftMost(right);
 	  tNode->setItem(data);
-	  TreeNode<T>* subtree = removeLeftMost(right);
-	  tNode->setRight(subtree);
+	   TreeNode<T>* subtree = removeLeftMost(right);
+	   tNode->setRight(subtree);
+	 
    }
 }
 
@@ -130,13 +174,24 @@ template < class T >
 T* BinarySearchTree<T>::findLeftMost(TreeNode<T>* tNode)
 {
    //DO THIS (use a while loop)
-   TreeNode<T>* left = tNode->getLeft();
-	while(left->getLeft() != 0)
+
+   #if DEBUG
+   cout << "Starting while loop\n";
+   int count = 0;
+   #endif
+	while(tNode->getLeft() != 0)
 	{
-		left = left->getLeft();
+		#if DEBUG
+		cout << "About to assign left\n";
+		#endif
+		tNode = tNode->getLeft();
+		#if DEBUG
+		count++;
+		cout << "We have been through the loop " << count << " times.\n";
+		#endif
 	}
 
-	return left->getItem();
+	return tNode->getItem();
 }
 
 template < class T >
@@ -162,10 +217,16 @@ T** BinarySearchTree<T>::toArray()
 	T** the_array = new T* [sze];
 	int count = 0;
 	
-	TreeNode<T>* tNode = root;
-	TreeNode<T>* trail = tNode;
+	BinaryTreeIterator<T>* bst_iter = iterator();
+	bst_iter->setInorder();
 	
+	while(bst_iter->hasNext())
+	{
+		the_array[count] = bst_iter->next();
+		count++;
+	}
 	
+	delete bst_iter;
 	return the_array;
 }
 
@@ -173,11 +234,26 @@ template < class T >
 T** BinarySearchTree<T>::treeSort(T** items, int num_itemss, int (*comp_items) (T* item_1, T* item_2), int (*comp_keys) (String* key, T* item))
 {
    //DO THIS
-
-
-
+   //Assuming that items can be overwritten. Need to find out if I need to create a copy of stuffs
+	BinarySearchTree<T>* tree = new BinarySearchTree<T> ((*comp_items), (*comp_keys));
+	int first = 0;
+	int last = num_itemss-1;
+	int mid = (first + (last-first))/2;
+	tree->insert(items[mid]);
+	
+	for(int c = 0; c < num_itemss; c++)
+	{
+		#if DEBUG
+		(items[c]->getKey())->displayString();
+		cout << endl; 
+		#endif
+		tree->insert(items[c]);
+	}
+	T** sorted = tree->toArray();
+	
+	return sorted;
 }
-
+//NO MORE DOING!!
 template < class T >
 BinarySearchTree<T>::BinarySearchTree(int (*comp_items) (T* item_1, T* item_2), int (*comp_keys) (String* key, T* item))
 {

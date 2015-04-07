@@ -23,6 +23,29 @@ void deleteCDs(ListArray<CD>* list)
    delete iter;
 }
 
+bool isSorted(CD** cds, int n)
+{
+	int comp;
+	for(int i = 0; i < n-2; i++)
+	{
+		comp = cds[i]->compare_items(cds[i], cds[i+1]);
+		if(comp > 0) return false;
+	}
+	
+	return true;
+}
+
+void displayTitles(CD** cds, int num_items)
+{
+	for(int i = 0; i < num_items; i++)
+   {
+	   cout << i+1 << ". ";
+	   (cds[i]->getKey())->displayString();
+		cout << endl;
+   }
+   cout << endl;
+}
+
 int main()
 {
    //the unsorted ListArray of cds
@@ -41,21 +64,34 @@ int main()
       bst->insert(cd);
    }
    delete iter;
-
+	bool sorted = false;
    
    //DO THIS
    //test your tree sort method
    CD** unsorted_cds = cds->toArray();
-   CD** sorted_cds = 
+   displayTitles(unsorted_cds, num_items);
 
+	if(isSorted(unsorted_cds, num_items))
+	{
+		cout << "Sorted\n";
+	}
+	else
+	{
+		cout << "Not sorted\n";
+	}
+   
+   CD** sorted_cds = bst->treeSort(unsorted_cds, num_items, CD::compare_items, CD::compare_keys);
+   displayTitles(sorted_cds, num_items);
 
-
-
-
-
-
-
-
+   if(isSorted(sorted_cds, num_items))
+	{
+		cout << "Sorted\n";
+	}
+	else
+	{
+		cout << "Not sorted\n";
+	}
+	
    deleteCDs(cds);
    delete cds;
    return 0;

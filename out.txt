@@ -1,0 +1,632 @@
+313
+
+1. Omnivium
+2. Waiting for the End to Come
+3. Construct
+4. Surtur Rising
+5. Entity
+6. Discordia
+7. Deathspell Catharsis
+8. Traitors
+9. Retribution
+10. New World Shadows
+11. Crogacht
+12. Asylon
+13. Leading Vision
+14. The Novella Reservior
+15. NeuThrone
+16. Ithyphallic
+17. The Formation of Damnation
+18. Stone's Reach
+19. The Dying Wonders of The World
+20. Engineering the Void
+21. For The Revolution
+22. Fragments of Form And Function
+23. One
+24. Deadlight
+25. Killing Season
+26. Rise of the Tyrant
+27. Prevail
+28. To Those Who Walk Behind Us
+29. Programmed To Consume
+30. Day Into Night
+31. Temple of Knowledge
+32. Open The Casket, Enter The Garden
+33. The Apostasy
+34. Demigod
+35. Beyond Redemption
+36. Across The Dark
+37. Manifesto
+38. Death Metal
+39. Noctambulant
+40. Unholy Cult
+41. Harnessing Ruin
+42. Dismember
+43. Hope
+44. The Morning Never Came
+45. Shadows In The Light
+46. The Red In The Sky Is Ours
+47. Symphony of Delusions
+48. Diabolical Figures
+49. Contra Rationem
+50. The God That Never Was
+51. Emission Phase
+52. Archetype of Chaos
+53. Fiction
+54. Liberation = Termination
+55. Planetary Duality
+56. Defiant Imagination
+57. Death Domination
+58. Polarity
+59. Stuck On Snakes Way
+60. The Human Condition
+61. At Dusk And Forever
+62. Deathstar Rising
+63. Phobos And Deimos
+64. Wither
+65. From Ashes
+66. Phoenix Amongst the Ashes
+67. Inside The Machine
+68. Descend Into Depravity
+69. Highest Beauty
+70. The Creation
+71. Those Whom The Gods Detest
+72. A Sylphe's Ascension
+73. Sterling Black Icon
+74. Flesh On Your Bones
+75. Hell Is Empty And All the Devils Are Here
+76. Night on Earth
+77. Dreams of Death and Dismay
+78. Crossing The Rubicon
+79. Stained
+80. Dead Harvest
+81. 12 Gauge
+82. The Frail Tide
+83. Battlecry Under A Winter Sun
+84. Darkened Silhouette
+85. Corroding From Inside
+86. Path of Fire
+87. (N)Utopia
+88. Sinner's Intuition
+89. A Velvet Creation
+90. Children of the Dark Waters
+91. War of Attrition
+92. Architecture of Lust
+93. Mirrorworlds
+94. A Virgin and a Whore
+95. Before the Bleeding Sun
+96. He Who Shall Not Bleed
+97. The Prophecy
+98. Spectral
+99. Neurotripsicks
+100. Timeless Departure
+101. Ensiferum
+102. The Thin Line Between
+103. Everhaunting Past
+104. Fragments of Death
+105. Fragmentary Evidence
+106. Chaotic Beauty
+107. Eclipse
+108. Portals To Uphobia
+109. In the Constellation of the Black Widow
+110. An Epic Defiance
+111. Cabinet
+112. This Godless Endeavor
+113. Illusions of Grandeur
+114. Anatomy of Life
+115. We Are The Void
+116. The Dividing Line
+117. The Crucible of Man
+118. Abzu
+119. Absence
+120. Inhumanity
+121. The Black Waltz
+122. Ice Upon The Night
+123. Hellucinate
+124. 1-800 Vindication
+125. Mirror of Retribution
+126. In The Arms of Devastation
+127. Swampsong
+128. Sweet Vengeance
+129. This Corroded Soul of Mine
+130. The Vile Conception
+131. Descent into Chaos
+132. The Unborn
+133. End of the Weakness
+134. Deceiver of the Gods
+135. ...And Death Said Live
+136. Swamplord
+137. Riders of the Plague
+138. Earth.Revolt
+139. This is Hell
+140. War Eternal
+141. From Your Grave
+142. Deathhammer
+143. Evangelion
+144. Virus
+145. Pitch Black Effects
+146. My Passion Your Pain
+147. Forbidden Empathy
+148. Steps of Descent
+149. Serenity in Fire
+150. Nailwork
+151. The Jester Race
+152. Tyranny of Souls
+153. Burn Me Wicked
+154. Layers of Lies
+155. Wages of Sin
+156. Haven
+157. Once Sent From The Golden Hall
+158. In The Halls of Awaiting
+159. The Glorious Burden
+160. The Art of Dying
+161. Incurso
+162. Beyond
+163. Skydancer + of Chaos And Eternal Night
+164. Stigmata
+165. Spirits And August Light
+166. Doomsday Machine
+167. No Tolerance For Imperfection
+168. Dark Saga
+169. Time I
+170. Incompleteness In Absence
+171. With Fear I Kiss The Burning Darkness
+172. Against The Elements
+173. Formshifter
+174. Sindustries
+175. Heaven's Venom
+176. Regicide
+177. One for Sorrow
+178. Sombre Gates
+179. Burning Bridges
+180. The Mind's I
+181. Suffocation
+182. Sedition
+183. Sense The Darkness
+184. Something Wicked This Way Comes
+185. The Arrival
+186. Portal of I
+187. The Crusher
+188. Death...The Brutal Way
+189. Source
+190. Trilateral Progression
+191. Character
+192. Anthems of Rebellion
+193. Collateral Defect
+194. Engraved In Black
+195. The Avenger
+196. Night of the Stormrider
+197. Slaughter of the Soul
+198. Daylight Deception
+199. Thunderbeast
+200. Antithesis
+201. Swansong
+202. Necrocracy
+203. Versus The World
+204. Remotecontrolled Scythe
+205. Wintersun
+206. Soulburner
+207. A Celebration of Guilt
+208. Epic - The Poetry of War
+209. Tales From The Thousand Lakes
+210. Cosmogenesis
+211. Starve For The Devil
+212. DetermiNation
+213. The Gallery
+214. Years In Waste
+215. Shadows and Dust
+216. Whoracle
+217. Burnt Offerings
+218. Abducted
+219. Framing Armageddon
+220. Towards The Twilight
+221. Angelic Encounters
+222. Terminal Spirit Disease
+223. Horror Show
+224. Fate of Norns
+225. Saivon Lapsi
+226. Since The Day It All Came Down
+227. Black Earth
+228. Anger, Hate And Fury
+229. Damage Done
+230. Esoteric
+231. Elements of the Infinite
+232. Hatebreeder
+233. Accident of Birth
+234. Follow The Reaper
+235. Shadows of the Dying Sun
+236. The Gathering
+237. Projector
+238. Aren't You Dead Yet
+239. The Chemical Wedding
+240. Seventh Swamphony
+241. Mask of Malice
+242. The More You Suffer
+243. Heartwork
+244. At the Gate of Sethu
+245. Still Life
+246. Paradogma
+247. Steelbath Suicide
+248. Twilight of the Thunder God
+249. The Farthest Reaches
+250. The Redshift
+251. Holy Murder Masquerade
+252. Hypocrisy
+253. Lunar Strain + Subterranean
+254. Frailty
+255. Aeons Black
+256. If Emotions Still Burn
+257. Liberation Through Hearing
+258. The Plague
+259. The Forever Endeavor
+260. Flesh Power Dominion
+261. Sinthetic
+262. Lifetime Supply of Guilt
+263. Central Tunnel Eight
+264. Fire Up The Blades
+265. 11 Dreams
+266. Majesty And Decay
+267. Welcome To The Morbid Reich
+268. Undoing Ruin
+269. In Their Darkened Shrines
+270. Soundscape of Silence
+271. The Mark of the Judas
+272. So Sedated So Secure
+273. Hidden Hands of a Sadist Nation
+274. A Perfect Absolution
+275. They Will Return
+276. Passion
+277. Under A Stone With No Inscription
+278. The Conductors Departure
+279. Annihilation of the Wicked
+280. The Art of Coming Apart
+281. The Essence
+282. Black Seeds of Vengeance
+283. Justified Genocide
+284. The Ghost
+285. My Darkness
+286. As Night Conquers Day
+287. Concealed
+288. Diminishing Between Worlds
+289. Embraced By The Absolute
+290. Vanitas
+291. United In Regret
+292. Enemy Unbound
+293. With Oden On Our Side
+294. Leveling The Plane of Existence
+295. The Fathomless Mastery
+296. Forget Me Not
+297. Of Breath and Bone
+298. Dreamweaver
+299. Absu
+300. Above The Weeping World
+301. Mind Revolution
+302. Process of a New Decline
+303. Apocalyptic
+304. Wolves
+305. The Prestige
+306. Holographic Universe
+307. Kingdom of Conspiracy
+308. Reign Supreme
+309. Khaos Legions
+310. Epitaph
+311. Communicate The Storms
+312. Peace Was Never An Option
+313. Dead Calm Chaos
+
+Not sorted
+1. (N)Utopia
+2. ...And Death Said Live
+3. 1-800 Vindication
+4. 11 Dreams
+5. 12 Gauge
+6. A Celebration of Guilt
+7. A Perfect Absolution
+8. A Sylphe's Ascension
+9. A Velvet Creation
+10. A Virgin and a Whore
+11. Abducted
+12. Above The Weeping World
+13. Absence
+14. Absu
+15. Abzu
+16. Accident of Birth
+17. Across The Dark
+18. Aeons Black
+19. Against The Elements
+20. An Epic Defiance
+21. Anatomy of Life
+22. Angelic Encounters
+23. Anger, Hate And Fury
+24. Annihilation of the Wicked
+25. Anthems of Rebellion
+26. Antithesis
+27. Apocalyptic
+28. Archetype of Chaos
+29. Architecture of Lust
+30. Aren't You Dead Yet
+31. As Night Conquers Day
+32. Asylon
+33. At Dusk And Forever
+34. At the Gate of Sethu
+35. Battlecry Under A Winter Sun
+36. Before the Bleeding Sun
+37. Beyond
+38. Beyond Redemption
+39. Black Earth
+40. Black Seeds of Vengeance
+41. Burn Me Wicked
+42. Burning Bridges
+43. Burnt Offerings
+44. Cabinet
+45. Central Tunnel Eight
+46. Chaotic Beauty
+47. Character
+48. Children of the Dark Waters
+49. Collateral Defect
+50. Communicate The Storms
+51. Concealed
+52. Construct
+53. Contra Rationem
+54. Corroding From Inside
+55. Cosmogenesis
+56. Crogacht
+57. Crossing The Rubicon
+58. Damage Done
+59. Dark Saga
+60. Darkened Silhouette
+61. Day Into Night
+62. Daylight Deception
+63. Dead Calm Chaos
+64. Dead Harvest
+65. Deadlight
+66. Death Domination
+67. Death Metal
+68. Death...The Brutal Way
+69. Deathhammer
+70. Deathspell Catharsis
+71. Deathstar Rising
+72. Deceiver of the Gods
+73. Defiant Imagination
+74. Demigod
+75. Descend Into Depravity
+76. Descent into Chaos
+77. DetermiNation
+78. Diabolical Figures
+79. Diminishing Between Worlds
+80. Discordia
+81. Dismember
+82. Doomsday Machine
+83. Dreams of Death and Dismay
+84. Dreamweaver
+85. Earth.Revolt
+86. Eclipse
+87. Elements of the Infinite
+88. Embraced By The Absolute
+89. Emission Phase
+90. End of the Weakness
+91. Enemy Unbound
+92. Engineering the Void
+93. Engraved In Black
+94. Ensiferum
+95. Entity
+96. Epic - The Poetry of War
+97. Epitaph
+98. Esoteric
+99. Evangelion
+100. Everhaunting Past
+101. Fate of Norns
+102. Fiction
+103. Fire Up The Blades
+104. Flesh On Your Bones
+105. Flesh Power Dominion
+106. Follow The Reaper
+107. For The Revolution
+108. Forbidden Empathy
+109. Forget Me Not
+110. Formshifter
+111. Fragmentary Evidence
+112. Fragments of Death
+113. Fragments of Form And Function
+114. Frailty
+115. Framing Armageddon
+116. From Ashes
+117. From Your Grave
+118. Harnessing Ruin
+119. Hatebreeder
+120. Haven
+121. He Who Shall Not Bleed
+122. Heartwork
+123. Heaven's Venom
+124. Hell Is Empty And All the Devils Are Here
+125. Hellucinate
+126. Hidden Hands of a Sadist Nation
+127. Highest Beauty
+128. Holographic Universe
+129. Holy Murder Masquerade
+130. Hope
+131. Horror Show
+132. Hypocrisy
+133. Ice Upon The Night
+134. If Emotions Still Burn
+135. Illusions of Grandeur
+136. In The Arms of Devastation
+137. In The Halls of Awaiting
+138. In Their Darkened Shrines
+139. In the Constellation of the Black Widow
+140. Incompleteness In Absence
+141. Incurso
+142. Inhumanity
+143. Inside The Machine
+144. Ithyphallic
+145. Justified Genocide
+146. Khaos Legions
+147. Killing Season
+148. Kingdom of Conspiracy
+149. Layers of Lies
+150. Leading Vision
+151. Leveling The Plane of Existence
+152. Liberation = Termination
+153. Liberation Through Hearing
+154. Lifetime Supply of Guilt
+155. Lunar Strain + Subterranean
+156. Majesty And Decay
+157. Manifesto
+158. Mask of Malice
+159. Mind Revolution
+160. Mirror of Retribution
+161. Mirrorworlds
+162. My Darkness
+163. My Passion Your Pain
+164. Nailwork
+165. Necrocracy
+166. NeuThrone
+167. Neurotripsicks
+168. New World Shadows
+169. Night of the Stormrider
+170. Night on Earth
+171. No Tolerance For Imperfection
+172. Noctambulant
+173. Of Breath and Bone
+174. Omnivium
+175. Once Sent From The Golden Hall
+176. One
+177. One for Sorrow
+178. Open The Casket, Enter The Garden
+179. Paradogma
+180. Passion
+181. Path of Fire
+182. Peace Was Never An Option
+183. Phobos And Deimos
+184. Phoenix Amongst the Ashes
+185. Pitch Black Effects
+186. Planetary Duality
+187. Polarity
+188. Portal of I
+189. Portals To Uphobia
+190. Prevail
+191. Process of a New Decline
+192. Programmed To Consume
+193. Projector
+194. Regicide
+195. Reign Supreme
+196. Remotecontrolled Scythe
+197. Retribution
+198. Riders of the Plague
+199. Rise of the Tyrant
+200. Saivon Lapsi
+201. Sedition
+202. Sense The Darkness
+203. Serenity in Fire
+204. Seventh Swamphony
+205. Shadows In The Light
+206. Shadows and Dust
+207. Shadows of the Dying Sun
+208. Since The Day It All Came Down
+209. Sindustries
+210. Sinner's Intuition
+211. Sinthetic
+212. Skydancer + of Chaos And Eternal Night
+213. Slaughter of the Soul
+214. So Sedated So Secure
+215. Sombre Gates
+216. Something Wicked This Way Comes
+217. Soulburner
+218. Soundscape of Silence
+219. Source
+220. Spectral
+221. Spirits And August Light
+222. Stained
+223. Starve For The Devil
+224. Steelbath Suicide
+225. Steps of Descent
+226. Sterling Black Icon
+227. Stigmata
+228. Still Life
+229. Stone's Reach
+230. Stuck On Snakes Way
+231. Suffocation
+232. Surtur Rising
+233. Swamplord
+234. Swampsong
+235. Swansong
+236. Sweet Vengeance
+237. Symphony of Delusions
+238. Tales From The Thousand Lakes
+239. Temple of Knowledge
+240. Terminal Spirit Disease
+241. The Apostasy
+242. The Arrival
+243. The Art of Coming Apart
+244. The Art of Dying
+245. The Avenger
+246. The Black Waltz
+247. The Chemical Wedding
+248. The Conductors Departure
+249. The Creation
+250. The Crucible of Man
+251. The Crusher
+252. The Dividing Line
+253. The Dying Wonders of The World
+254. The Essence
+255. The Farthest Reaches
+256. The Fathomless Mastery
+257. The Forever Endeavor
+258. The Formation of Damnation
+259. The Frail Tide
+260. The Gallery
+261. The Gathering
+262. The Ghost
+263. The Glorious Burden
+264. The God That Never Was
+265. The Human Condition
+266. The Jester Race
+267. The Mark of the Judas
+268. The Mind's I
+269. The More You Suffer
+270. The Morning Never Came
+271. The Novella Reservior
+272. The Plague
+273. The Prestige
+274. The Prophecy
+275. The Red In The Sky Is Ours
+276. The Redshift
+277. The Thin Line Between
+278. The Unborn
+279. The Vile Conception
+280. They Will Return
+281. This Corroded Soul of Mine
+282. This Godless Endeavor
+283. This is Hell
+284. Those Whom The Gods Detest
+285. Thunderbeast
+286. Time I
+287. Timeless Departure
+288. To Those Who Walk Behind Us
+289. Towards The Twilight
+290. Traitors
+291. Trilateral Progression
+292. Twilight of the Thunder God
+293. Tyranny of Souls
+294. Under A Stone With No Inscription
+295. Undoing Ruin
+296. Unholy Cult
+297. United In Regret
+298. Vanitas
+299. Versus The World
+300. Virus
+301. Wages of Sin
+302. Waiting for the End to Come
+303. War Eternal
+304. War of Attrition
+305. We Are The Void
+306. Welcome To The Morbid Reich
+307. Whoracle
+308. Wintersun
+309. With Fear I Kiss The Burning Darkness
+310. With Oden On Our Side
+311. Wither
+312. Wolves
+313. Years In Waste
+
+Not sorted

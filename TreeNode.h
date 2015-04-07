@@ -84,12 +84,11 @@ void TreeNode<T>::draw(Cairo::RefPtr<Cairo::Context> cr, int x, int y)
 {
    T* item = getItem();
    String* key = item->getKey();
-   //char* text = key->getText();
+   const char* text = key->getText();
    Color* color = new Color(0.886, 0.49, 0.067);
    Circle* circle = new Circle(color, 20, key);
    circle->draw(cr, x, y);
 
-/*
    cr->save();
       Glib::RefPtr<Pango::Layout> pangoLayout = Pango::Layout::create (cr);
       cr->move_to(x - 10, y - 12);
@@ -101,7 +100,7 @@ void TreeNode<T>::draw(Cairo::RefPtr<Cairo::Context> cr, int x, int y)
       cr->set_source_rgba(0, 0, 0, 1.0); //opaque, black
       cr->fill();
    cr->restore();
-*/
+
 
    delete circle;
 }

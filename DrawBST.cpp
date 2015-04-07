@@ -20,18 +20,24 @@ int main(int argc, char** argv)
 
    ListArrayIterator<CD>* iter = cds->iterator();
    BinarySearchTree<CD>* bst = new BinarySearchTree<CD>(&CD::compare_items, &CD::compare_keys);
+   
    while(iter->hasNext())
    {
       CD* cd = iter->next();
       bst->insert(cd);
    }
    delete iter;
-
+	
    iter = cds->iterator();
    int count = 1;
+
    while(iter->hasNext() && count <= 250)
    {
       CD* cd = iter->next();
+	  #if DEBUG
+	  (cd->getKey())->displayString();
+	  cout << endl << endl;
+	  #endif
       bst->remove(cd->getKey());
       count++;
    }
